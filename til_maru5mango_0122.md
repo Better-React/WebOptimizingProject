@@ -2,7 +2,7 @@
 - [Before]
 <img src="https://user-images.githubusercontent.com/63353110/148955601-76e98542-18c8-4c70-99b7-331ad813f60e.png" />
 - [After]
-![image](https://user-images.githubusercontent.com/63353110/150631995-1bc6ac8c-47a9-48d2-b097-a697eef56f22.png)
+<img src="https://user-images.githubusercontent.com/63353110/150631995-1bc6ac8c-47a9-48d2-b097-a697eef56f22.png" />
 
 
   ## 📚 책 범위
